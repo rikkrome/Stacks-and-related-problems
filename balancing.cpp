@@ -4,8 +4,8 @@
 using namespace std;
 
 int main(){
-    freopen("/Users/rickyromero/school/Stacks-and-related-problems/input_balanced.txt", "r", stdin);
-//  freopen("input_balanced.txt", "r", stdin);
+//    freopen("/Users/rickyromero/school/Stacks-and-related-problems/input_balanced.txt", "r", stdin);
+  freopen("input_balanced.txt", "r", stdin);
   string s,r;
   int line_counter;
   while(cin >> r){
