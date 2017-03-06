@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main3(){
+int main(){
 //    freopen("/Users/rickyromero/school/Stacks-and-related-problems/input_postfixEval.txt", "r", stdin);
   freopen("input_postfixEval.txt", "r", stdin);
   string s;
